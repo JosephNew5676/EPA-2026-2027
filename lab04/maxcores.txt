@@ -1,0 +1,2 @@
+Usage: ./lab04_cpu_count_3.sh [MAX_NUM_CORES]
+Usage: ./lab04_cpu_count_3.sh [MAX_NUM_CORES]
